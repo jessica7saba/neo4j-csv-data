@@ -1,0 +1,6 @@
+EmployeeID,Name,ReportsTo
+1,Nancy Davolio,
+2,Andrew Fuller,1
+3,Janet Leverling,2
+4,Margaret Peacock,2
+5,Steven Buchanan,2
